@@ -1,8 +1,8 @@
 # Master Services Agreement Template
 
-This Contract is between _______ (the "Client") and NO2, a New York limited liability company (the "Contractor").
+This Contract is between *[Client Name]* (the "Client") and NO2, a New York limited liability company (the "Contractor").
 
-The Contract is dated [the date both parties sign].
+The Contract is dated *[the date both parties sign]*.
 
 ### 1. WORK AND PAYMENT.
 
@@ -17,7 +17,7 @@ Additional terms, such as the services and deliverables to be provided hereunder
 The Contractor will begin work on [the date both parties sign] and will continue until the work is completed. This Contract can be ended by either Client or Contractor at any time, pursuant to the terms of Section 6, Term and Termination.
 
 **1.3 Payment.**
-The Client will pay the Contractor ____________.
+The Client will pay the Contractor *[Hourly Rate, Project Rate, Retainer Agreement]*.
 
 The Client shall pay Contractor for the work performed hereunder as set forth on the applicable SOW. In no event will any payment under this Agreement be contingent on receipt of any monies or other compensation by the Client. Delays resulting from the action or inaction of Client may result in an adjustment in fees by Contractor, subject to Client approval. Contractor may suspend performance of services and withhold delivery of materials until payment in full of all amounts due. Contractor shall not be liable for any damages, losses or liabilities that may arise out of Contractor's suspension of performance and/or withholding of materials due to Client’s non-payment. Contractor shall be entitled to all of its costs of collection of amounts outstanding hereunder, including without limitation, the fees of its attorneys.
 
@@ -28,7 +28,7 @@ The Client will reimburse the Contractor's expenses. Expenses must be preapprove
 The Contractor will invoice the Client in accordance with the milestones in Section 1.3. The Client agrees to pay the amount owed within 7 days of receiving the invoice. Payment after that date will incur a late fee of 5.0% per month on the outstanding amount.
 
 **1.6 Support.**
-The Contractor __________ provide support for any deliverable once the Client accepts it, unless otherwise agreed in writing.
+The Contractor *[Will, Will Not]* provide support for any deliverable once the Client accepts it, unless otherwise agreed in writing.
 
 ### 2. OWNERSHIP AND LICENSES.
 
