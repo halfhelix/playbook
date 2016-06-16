@@ -1,0 +1,35 @@
+@import "partial-name";
+
+.class-one {
+  background-color: $color-variable;
+  border: 0;
+
+  @media (min-width: $screen-variable) {
+    margin: ($spacing-variable * 2) 1rem;
+  }
+
+  &:hover {
+    box-shadow: 0 0 2px 1px rgba($color-variable, 0.2);
+  }
+
+  &::before {
+    content: "hello";
+  }
+}
+
+.class-two {
+  @extend %placeholder;
+  @include mixin;
+  align-items: center;
+  display: flex;
+  flex: 1 1 auto;
+
+  a {
+    text-decoration: none;
+
+    &:focus,
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
