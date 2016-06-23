@@ -1,1 +1,0 @@
-# Difference between Design, Frontend, and Backend.

@@ -1,7 +1,4 @@
-Best Practices
-==============
-
-A guide for programming well.
+# Programming Best Practices
 
 General
 -------

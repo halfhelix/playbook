@@ -1,1 +1,0 @@
-# Asset Delivery Guide
