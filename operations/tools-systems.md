@@ -21,7 +21,6 @@ We use email  for interfacing with clients and for signing up for web services. 
 *Google Drive*
 All documents should live in Google Drive. This includes everything from our financial records to project brainstorms.
 
-
 ## Design & Development Pipeline
 We use custom internal tools and publicly available software to optimize the handoff between design and development. This is often the biggest bottleneck in any workflow, but with these tools we are able to move fast and collaborate effectively internally and with our clients.
 
@@ -30,15 +29,6 @@ InVision is a design prototyping platform we use to host the design files / asse
 
 *Zeplin*
 Zeplin is the tool we use to hand off design specs from designer to developer. Zeplin outlines designs by generating dimensions, colors, fonts, and other details from design files to make development easier.
-
-## Development Tools
-Here are the tools for building the web front- and back-end of our projects.
-
-*BitBucket*
-BitBucket stores all our version of a project code. Aside from acting as the central hub for our code, it also acts as a backup incase anything were to happen to a project server or developers computer. All public repositories should have an up-to-date README.md file.
-
-*GitHub*
-
 
 ## Design
 These help us build mockups and prototypes to share ideas with clients and inform development.
@@ -51,6 +41,22 @@ Adobe Illustrator CC is our primary tool for graphics. While Sketch is great at 
 
 *Photoshop*
 We use Adobe Photoshop CC primarily for making photorealistic mockups. For example, we can place a screenshot of an interface created in Sketch into a monitor to help clients visualize the final product. We also use it for photo editing, but UI design should never ever be done in PS! While software like Illustrator is a vector editing tool, Photoshop is a raster editing tool for files like PNG, JPG, and GIF.
+
+## Development Tools
+Here are the tools for building the web front- and back-end of our projects.
+
+*BitBucket*
+BitBucket stores all our version of a project code. Aside from acting as the central hub for our code, it also acts as a backup incase anything were to happen to a project server or developers computer. All public repositories should have an up-to-date README.md file.
+
+*GitHub*
+
+## Hosting
+
+*Heroku*
+
+*Netify*
+
+*Flywheel*
 
 
 ## Social Networks
