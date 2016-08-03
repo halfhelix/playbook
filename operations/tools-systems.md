@@ -6,12 +6,8 @@ Everyone on the team uses these to stay in sync.
 *Slack*
 Slack is a chat and communication tool that we use in place of Skype. By default, all communication should happen over Slack in our various channels. We might choose to invite clients as Single-Channel Guests to a private group in our Slack if we think it will make our communication more open and effective. There is a web app, desktop app. and mobile app.
 
-*Howdy*
-Howdy is an automated Slack bot. Howdy allows us to have a daily checkins without burdensome hour-long morning meetings. Each day at 10:30am (GMT-4), Howdy will sends the entire team a message on slack asking 3 questions. 1) What did you work on yesterday? 2) What are you working on today? 3) Is there anything blocking the ability to complete your work? This gives the team a chance to prioritize and distribute work and resolve any challenges we are facing.
-
 *Trello*
 Trello stores our tasks in what they call ‘cards’. If someone has a task they should perform, it should be in Trello.
-
 
 *Google Apps*
 We us for Google Apps for Business, which allows us to log into @no2.co emails. It also powers our Gmail, Google Calendar, and Google Drive.
@@ -41,8 +37,7 @@ Here are the tools for building the web front- and back-end of our projects.
 *BitBucket*
 BitBucket stores all our version of a project code. Aside from acting as the central hub for our code, it also acts as a backup incase anything were to happen to a project server or developers computer. All public repositories should have an up-to-date README.md file.
 
-*DeployBot*
-Coming Soon
+*GitHub*
 
 
 ## Design
