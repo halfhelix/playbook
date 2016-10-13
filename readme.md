@@ -4,7 +4,7 @@ Half Helix is a collaborative digital agency that partners with organizations to
 
 ## 👨‍👩‍👦‍👦 Our Teamwork Tools
 
-- [Slack] for group communication
+- [Slack](http://slack.com/) for group communication
 - [Google Hangouts] for video communication
 - [Trello] for project management
 - [Github] for public code management
