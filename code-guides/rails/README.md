@@ -1,10 +1,10 @@
-Rails
-----
+## Rails
 
 A guide for writing great web apps.
 
-Create App
-----------
+## Create App
+
+Use suspenders unless good reason not to.
 
 Get Suspenders.
 
@@ -14,8 +14,7 @@ Create the app.
 
     suspenders app --heroku true --github organization/app
 
-Set Up App
-----------
+## Set Up App
 
 Get the code.
 
@@ -34,12 +33,6 @@ variables.
 Delete extra lines in `.env`, leaving only those needed for app to function
 properly. For example: `BRAINTREE_MERCHANT_ID` and `S3_SECRET`.
 
-Git Protocol
-------------
+## Git Protocol
 
 Follow the normal [Git Protocol](/protocol/git).
-
-Product Review
---------------
-
-Follow the normal [Product Review protocol](/protocol/product-review).

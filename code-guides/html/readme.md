@@ -1,5 +1,4 @@
-HTML
-----
+## HTML
 
 A guide for writting html.
 

@@ -1,21 +1,17 @@
-Shopify
-----
+## Shopify
 
 A guide for programming within version control.
 
+## Maintain a Repo
 
-Maintain a Repo
----------------
-
-* Avoid including files in source control that are specific to your
+- Avoid including files in source control that are specific to your
   development machine or process.
-* Delete local and remote feature branches after merging.
-* Perform work in a feature branch.
-* Rebase frequently to incorporate upstream changes.
-* Use a pull request for code reviews.
+- Delete local and remote feature branches after merging.
+- Perform work in a feature branch.
+- Rebase frequently to incorporate upstream changes.
+- Use a pull request for code reviews.
 
-Write a Feature
----------------
+## Write a Feature
 
 Create a local feature branch based off master.
 
@@ -60,12 +56,9 @@ Ask for a code review in the project's chat room.
 [good commit message]: http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html
 [GitHub pull request]: https://help.github.com/articles/using-pull-requests/
 
-Review Code
------------
+## Review Code
 
-A team member other than the author reviews the pull request. They follow
-[Code Review](/code-review) guidelines to avoid
-miscommunication.
+A team member other than the author reviews the pull request. 
 
 They make comments and ask questions directly on lines of code in the GitHub or Bitbucket
 web interface or in the project's chat room.
