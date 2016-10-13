@@ -25,27 +25,27 @@ Most new prospective clients content us vvia email, either from a recommendation
 Some key questions that we’ll discuss:
 
 - **Find out why.**
-- 
+
 Why did the client contact us—why do they feel that we would be a good match?
 
 - **Discover their vision.**
--
+
 Gauge technical expertise and level of expectations. Do they sound smart, focused and knowledgeable about their goals and business? A lack of technical expertise is a solvable problem, but needs to later be factored into budgets, for increased project time and more thorough training.
 
 - **Understand a little more about their requirements.**
--
+
 This is not a deep scoping session, yet, but we’ll likely need to fill in a few gaps in our knowledge and understand a little more about the work that’s required. This will help us to understand the team that’ll be needed for the project.
 
 - **Discover their level of commitment.**
--
+
 Who will we be working with—who will be the product owner at the client’s end?
 
 - **Sound out their budget.**
--
+
 Be accepting of a degree of inexperience—not all clients know exactly how much this will cost. But be very cautious if their budget expectations are vastly out of sync with what’s required for the project to succeed. Squeezed budgets don’t allow the time and thought to deliver great results, and we should make sure we don’t put ourselves in a position where the client might be left unhappy at the end of the project.
 
 - **Discuss a very loose timeline.**
--
+
 Ahead of the call, the team will check out our upcoming project schedule to see what our availability is. But we won’t commit to a project deadline or set schedule on the call, because this will need to be discussed with the rest of the team beforehand.
 
 Team members should be careful not to commit to specific dates in early client calls, so that the client isn’t disappointed when these dates are investigated more deeply and turn out to not be achievable. Be aware that getting through the early stages of contract signing and invoice payment can be more time-consuming than you might expect.
