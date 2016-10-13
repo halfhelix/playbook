@@ -20,13 +20,14 @@ Half Helix is a collaborative digital agency that partners with organizations to
 
 ## 💻  Our Programming Style Guides
 
-- [HTML]
-- [CSS]
-- [Javascript]
-- [Git]
-- [Jekyll]
-- [Shopify]
-- [Rails]
+- [HTML](/code-guides/html/readme.md)
+- [CSS](/code-guides/css/readme.md)
+- [Javascript](/code-guides/javascript/readme.md)
+- [Git](/code-guides/git/readme.md)
+- [Code Reviews](/code-guides/code-review/readme.md)
+- [Jekyll](/code-guides/jekyll/readme.md)
+- [Shopify](/code-guides/shopify/readme.md)
+- [Rails](/code-guides/rails/readme.md)
 
 ## 📦 Our Starterkits
 
