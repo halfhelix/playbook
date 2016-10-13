@@ -12,15 +12,7 @@ We price projects based on time. Usually this is calculated hourly or weekly. We
 ## Invoicing & Payments
 ## Contracts
 
-Our project contract contains:
 
-- A one-page summary of the expected work.
-- A summary of our rates.
-- Payment terms.
-- Agreement that the client owns all paid work.
-- Agreement that both parties won't use materials which break someone else's copyright.
-- Agreement that both parties won't publish things to the web hosting provider which are abusive or unethical.
-- A page for signatures.
 -
 ## Meetings
 ## Project Management
