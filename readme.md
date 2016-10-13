@@ -35,16 +35,6 @@ Half Helix is a collaborative digital agency that partners with organizations to
 - Rails: [Suspenders](https://github.com/thoughtbot/suspenders)
 - Shopify: [ShopifyHelix](https://github.com/halfhelix/shopify-helix)
 
-## 💁 Our Operating Process
-
-- [Communication](operations/readme.md)
-- [Invoicing & Payments](operations/readme.md)
-- [Meetings](operations/readme.md)
-- [Project Management](operations/readme.md)
-- [The First Week](operations/readme.md)
-- [Maintenance Agreements](operations/readme.md)
-- [Remote Work](operations/readme.md)
-
 ## 📝 Our Project Process
 
 - [Sales](client-projects/readme.md)
@@ -54,6 +44,16 @@ Half Helix is a collaborative digital agency that partners with organizations to
 - [Development](client-projects/readme.md)
 - [QA](client-projects/readme.md)
 - [Maintience](client-projects/readme.md)
+
+## 💁 Our Operating Process
+
+- [Communication](operations/readme.md)
+- [Invoicing & Payments](operations/readme.md)
+- [Meetings](operations/readme.md)
+- [Project Management](operations/readme.md)
+- [The First Week](operations/readme.md)
+- [Maintenance Agreements](operations/readme.md)
+- [Remote Work](operations/readme.md)
 
 ## 📰 Our Client Guides
 
