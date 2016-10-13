@@ -1,16 +1,70 @@
-# Hello
+## 🙌📔💪Playbook
 
-We are NO2. We’re a modern design and development agency.
+Half Helix is a collaborative digital agency that partners with organizations to create modern digital experiences for culture and commerce. Together, we transform ideas into connected products and platforms for mobile and the web.
 
-We have worked with cliets from all over the world, from individual founders who are self-funded, to large multi-national organizations. We have also created our own side products and businesses.
+## 👨‍👩‍👦‍👦 Our Teamwork Tools
 
-This is our playbook. It’s the who, what, where, when, and why of our agency. It details how we run client projects and daily operations. It's a combination of things we've learned over the years and a study of others' experiences. It is a living document, and like everything else, is consistently being updated as our processes and preferences evolve.
+- Slack for group communication
+- Google Hangouts for video communication
+- Trello for project management
+- Github for public code management
+- Gitlab for private code management
+- Google Drive for file management
 
-## High level guidelines:
+## 🕹 Our Creative Tools
 
-- "Who cares?" Well, we do.
-- Keep things clean, lean, and consistent.
-- Have an opinion, but hold them loosely.
-- Speak like a human.
-- Maximize efficiency and minimize re-work.
-- Small improvements, everyday.
+- Sketch for designing
+- InVision for prototyping
+- Atom for coding
+- GitlabCI for CI/CD
+
+## 💻  Our Programming Style Guides
+
+- HTML
+- CSS
+- Javascript
+- Git
+- Jekyll
+- Shopify
+- Rails
+
+## 📦 Our Starterkits
+
+- Frontend
+- Rails
+- Shopify
+
+## 💁 Our Operating Process
+
+- Communication
+- Invoicing & Payments
+- Meetings
+- Project Management
+- The First Week
+- Maintenance Agreements
+- Remote Work
+
+## 📝 Our Project Process
+
+- Sales
+- Kickoff
+- Planning
+- Design
+- Development
+- QA
+- Maintience
+
+## 📰 Articles For Clients
+
+- What does it cost
+- How to delivery assets
+- How to give feedback
+- The difference between design, frontend, backend
+- The differences between web apps, nobile apps, and hybrid apps
+
+## 📃 Our Documents & Templates
+
+- Standard Contract Template
+- Mainteince Agreement Template
+
+##
