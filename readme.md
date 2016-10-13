@@ -2,6 +2,10 @@
 
 Half Helix is a collaborative digital agency that partners with organizations to create modern digital experiences for culture and commerce. Together, we transform ideas into connected products and platforms for mobile and the web.
 
+## 🙏 Our Beliefs
+
+## 💯 Our Ways
+
 ## 👨‍👩‍👦‍👦 Our Teamwork Tools
 
 - [Slack](http://slack.com/) for group communication
@@ -34,7 +38,7 @@ Half Helix is a collaborative digital agency that partners with organizations to
 - Rails: [Suspenders](https://github.com/thoughtbot/suspenders)
 - Shopify: [ShopifyHelix](https://github.com/halfhelix/shopify-helix)
 
-## 📦 Our Sales Process
+## 💵 Our Sales Process
 
 - [Inquiries](new-projects/readme.md)
 - [Initial Meeting](new-projects/readme.md)
