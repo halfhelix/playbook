@@ -1,7 +1,9 @@
 ## Communication
+## Budgets
+## Rates
 ## Invoicing & Payments
+## Contracts
 ## Meetings
 ## Project Management
-## The First Week
 ## Maintenance Agreements
 ## Remote Work
