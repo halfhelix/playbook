@@ -24,27 +24,27 @@ Most new prospective clients content us vvia email, either from a recommendation
 
 Some key questions that we’ll discuss:
 
-1) **Find out why.**
+**1) Find out why.**
 
 Why did the client contact us—why do they feel that we would be a good match?
 
-2) **Discover their vision.**
+**2) Discover their vision.**
 
 Gauge technical expertise and level of expectations. Do they sound smart, focused and knowledgeable about their goals and business? A lack of technical expertise is a solvable problem, but needs to later be factored into budgets, for increased project time and more thorough training.
 
-3) **Understand a little more about their requirements.**
+**3) Understand a little more about their requirements.**
 
 This is not a deep scoping session, yet, but we’ll likely need to fill in a few gaps in our knowledge and understand a little more about the work that’s required. This will help us to understand the team that’ll be needed for the project.
 
-4) **Discover their level of commitment.**
+**4) Discover their level of commitment.**
 
 Who will we be working with—who will be the product owner at the client’s end?
 
-5) **Sound out their budget.**
+**5) Sound out their budget.**
 
 Be accepting of a degree of inexperience—not all clients know exactly how much this will cost. But be very cautious if their budget expectations are vastly out of sync with what’s required for the project to succeed. Squeezed budgets don’t allow the time and thought to deliver great results, and we should make sure we don’t put ourselves in a position where the client might be left unhappy at the end of the project.
 
-6) **Discuss a very loose timeline.**
+**6) Discuss a very loose timeline.**
 
 Ahead of the call, the team will check out our upcoming project schedule to see what our availability is. But we won’t commit to a project deadline or set schedule on the call, because this will need to be discussed with the rest of the team beforehand.
 
