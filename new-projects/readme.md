@@ -1,7 +1,5 @@
 # New Projects
 
-## Sales tl:dr
-
 We're a team of designers and developers, who make their living creating digital products. Before we can do that, we need clients to hire us. The following section details how our sales process works and answers commonly asked questions by potential clients.
 
 The overall process is:
@@ -20,7 +18,7 @@ The overall process is:
 
 ## Inquiries
 
-Most new prospective clients content us vvia email, either from a recommendation or from seeing other projects we've done. If we think the project and client are a good fit, we'll scheudle a call or meeting.
+Most new prospective clients content us via email, either from a recommendation or from seeing other projects we've done. If we think the project and client are a good fit, we'll scheudle a call or meeting.
 
 ## Initial Meeting
 
@@ -28,11 +26,11 @@ Some key questions that we’ll discuss:
 
 **1) Find out why.**
 
-Why did the client contact us—why do they feel that we would be a good match?
+Why did the client contact us — why do they feel that we would be a good match?
 
 **2) Discover their vision.**
 
-Gauge technical expertise and level of expectations. Do they sound smart, focused and knowledgeable about their goals and business? A lack of technical expertise is a solvable problem, but needs to later be factored into budgets, for increased project time and more thorough training.
+Gauge technical expertise and level of expectations. Do they sound focused and knowledgeable about their goals and business? If not, do they have the availibity to hash our their goals through a discovery peroid? We want to be sure we dont get mixed up in a aimless project.
 
 **3) Understand a little more about their requirements.**
 
@@ -44,13 +42,13 @@ Who will we be working with—who will be the product owner at the client’s en
 
 **5) Sound out their budget.**
 
-Be accepting of a degree of inexperience—not all clients know exactly how much this will cost. But be very cautious if their budget expectations are vastly out of sync with what’s required for the project to succeed. Squeezed budgets don’t allow the time and thought to deliver great results, and we should make sure we don’t put ourselves in a position where the client might be left unhappy at the end of the project.
+We knoew not all clients know exactly how much this will cost. But we're very cautious about projects that have budget expectations that are vastly out of sync with what’s required for the project to succeed. Squeezed budgets don’t allow the time and thought to deliver great results, and we need to make sure we don’t put ourselves in a position where the client might be left unhappy at the end of the project.
 
 **6) Discuss a very loose timeline.**
 
 Ahead of the call, the team will check out our upcoming project schedule to see what our availability is. But we won’t commit to a project deadline or set schedule on the call, because this will need to be discussed with the rest of the team beforehand.
 
-Team members should be careful not to commit to specific dates in early client calls, so that the client isn’t disappointed when these dates are investigated more deeply and turn out to not be achievable. Be aware that getting through the early stages of contract signing and invoice payment can be more time-consuming than you might expect.
+We usually do not commit to specific dates in early calls, so that the client isn’t disappointed when these dates are investigated more deeply and turn out to not be achievable.
 
 ## Budgets
 
@@ -78,6 +76,6 @@ A highlevel outline of our project contract would be:
 
 ## Scheduling
 
-All our projects are scheduled into weekly blocks. Since keeping our project workload and team avaliblilbe fairly insync is important to our sucesses, we often can not start a project immeditely. Before booking a project into our team schedule, we will send an upfront invoice for the initial deposit. This is the only invoice we send which is not on net-7 payment terms—rather, it is due upon reciept.
+All our projects are scheduled into weekly blocks. Since keeping our project workload and team avaliblilbe fairly insync is key to us staying in business, we often can not start a project immeditely. Before booking a project into our team schedule, we will send an upfront invoice for the initial deposit. This is the only invoice we send which is not on net-7 payment terms—rather, it is due upon reciept.
 
 During discussions with the client up to this point, we’ll give them approximate estimates for when the project might be able to be scheduled. However, no dates are fixed until we have a signed contract and the deposit invoice has been paid.
