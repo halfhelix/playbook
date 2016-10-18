@@ -55,7 +55,7 @@ New ways of working require new incentives. Our team receives a percentage of pr
 ## 📦 Our Starterkits
 
 - Frontend: [JekyllHelix](https://github.com/peterberwind/jekyll-helix)
-- Rails: [Suspenders](https://github.com/thoughtbot/suspenders)
+- Rails: [Suspenders](https://github.com/thoughtbot/suspenders) *(curtusy of ThoughtBot)*
 - Shopify: [ShopifyHelix](https://github.com/halfhelix/shopify-helix)
 
 ## 💵 Our Sales Process
