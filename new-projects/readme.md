@@ -1,3 +1,5 @@
+# New Projects
+
 ## Sales tl:dr
 
 We're a team of designers and developers, who make their living creating digital products. Before we can do that, we need clients to hire us. The following section details how our sales process works and answers commonly asked questions by potential clients.
@@ -49,6 +51,16 @@ Be accepting of a degree of inexperience—not all clients know exactly how much
 Ahead of the call, the team will check out our upcoming project schedule to see what our availability is. But we won’t commit to a project deadline or set schedule on the call, because this will need to be discussed with the rest of the team beforehand.
 
 Team members should be careful not to commit to specific dates in early client calls, so that the client isn’t disappointed when these dates are investigated more deeply and turn out to not be achievable. Be aware that getting through the early stages of contract signing and invoice payment can be more time-consuming than you might expect.
+
+## Budgets
+
+It’s important that we know our client’s budget. Buying design or development, just like buying a car, is a financial transaction. In fact, one of the first questions we ask prospective clients is about their budget. This question tends to make people uncomfortable, but their budget helps determine what scope is possible. Most of all, that number tells us how to guide the client toward the best solution from the beginning, and to stay away from solutions that are outside of their price range.
+
+Not everyone knows what their budget is and that’s ok. It just means we’ll discuss a few options. Some below your price range, some above. Often, we talk about breaking a project rollout, and thus payments, into stages by focusing on smaller subsets of features.
+
+## Rates
+
+We price projects based on time. Usually this is calculated hourly or weekly. We use the same rate for designers and developers. The work required for a project dictates the number of people and amount of time, which then determines the cost and how quickly things get done.
 
 ## Contract
 
