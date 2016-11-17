@@ -14,7 +14,7 @@ Step 2) Wait for Emails
 
 We're a collabrative agency. That means each person working on your project has a share in the company - be it a designer, developer, or producer. This means our motivations are radically different than traditional agencies and we're able to do things that other cannot.
 
-Traditional agencies have a lot of overhead and are fundamentally lifestyle businesses. Their business model is to hire staff, double or triple their salaries, then repackage it for sale to clients. In contrast, our cooperative model gives each member of our team a share in ownership and profits. By flipping the agency paradigm, each one of us is deeply invested of the sucsess of all of our projects. 
+Traditional agencies have a lot of overhead and are fundamentally lifestyle businesses. Their business model is to hire staff, double or triple their salaries, then repackage it for sale to clients. In contrast, our cooperative model gives each member of our team a share in ownership and profits. By flipping the agency paradigm, each one of us is deeply invested of the sucsess of all of our projects.
 
 ## 🙏 Our Beliefs
 
@@ -42,6 +42,7 @@ New ways of working require new incentives. Our team receives a percentage of pr
 - [Github](github.com) for public code management
 - [Gitlab](gitlab.com) for private code management
 - [Google Drive](https://drive.google.com) for file management
+
 read more on tools [here]()
 
 ## 🕹 Our Creative Tools
@@ -50,6 +51,7 @@ read more on tools [here]()
 - [InVision](https://www.invisionapp.com/) for prototyping
 - [Atom](https://atom.io/) for coding
 - [GitlabCI](https://about.gitlab.com/gitlab-ci/) or [DeployBot](http://deploybot.com)for CI/CD
+
 read more on tools [here]()
 
 ## 💻  Our Programming Style Guides
