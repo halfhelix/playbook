@@ -13,6 +13,13 @@
 
 ### Project Estimation
 
+10% - Director
+20% - Design
+25% - Development
+15% - Project Management
+5% - Sales Commision
+25% - Agency (Office, Admin, )
+
 ### Proposals
 
 ### Feature Tracking
@@ -27,7 +34,7 @@
 - Be lighthearted. Because, hey, life is stressful. building websites is stressful. Lets not make talking to one another stressful too.
 - Speak like a human. In an industry that requires a ton of communication between clients, agencies and vendors, it’s important not to let acronyms, “proprietary processes,” and buzzwords lead to confusion and time lost.
 - Show, don't tell. Something about a picture being worth a thousand words.
-- Take responsibility. Nobody like messing up, but pretending like you didn't only makes things worse. 
+- Take responsibility. Nobody like messing up, but pretending like you didn't only makes things worse.
 
 **Email**
 - Do write short emails. Long emails require long reposnes and are a hige time suck.

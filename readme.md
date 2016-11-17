@@ -2,6 +2,13 @@
 
 Half Helix is a collaborative digital agency that partners with organizations to create modern digital experiences for culture and commerce. Together, we transform ideas into connected products and platforms for mobile and the web.
 
+## ♻️ Our Model
+
+Our business model is very simple:
+
+1) Make Good Work
+2) Wait for Emails
+
 ## 💯 Our Ways
 
 We're a collabrative agency. That means each person working on your project has a share in the company - be it a designer, developer, or specialist. This means our motivations are radically different than traditional agencies and we're able to do things that other cannot.
