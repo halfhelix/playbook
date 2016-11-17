@@ -1,12 +1,14 @@
 # Team Guides
 
-There are 3 high-level roles in our agency: Designers, Developers, and Project Managers.
+WE HAVE THREE DISCIPLINES
+
+We tried to write a definition for each one, but we couldn’t do it. Our disciplines aren’t slots into which we can drop an identical replacement. All we know is that if you put them together, amazing shit happens. If you want to know more about what someone does, just ask ‘em.
 
 ### Designers
-The job of the designer involves considering how a user will interact with the website or app and creating interfaces that are usable, intuitive, and intelligent.
+[Read more on how to be a designer @ Half Helix.]()
 
 ### Developers
-The job of the developer is to assess the goals of the project along side the intensions of the designs, then write code that turns ideas into reality. Often developers fall into the category of either "frontend" or "backend", but more on that later.
+[Read more on how to be a developer @ Half Helix.]()
 
 ### Project Managers
-Project managers are the liason between between designers, developers, and clients. Although all project participants collabrate on a daily-basis, the project manager parses ongoing client requests, shifts in priority, and changes in scope to ensure we deliver on-time and in-budget. 
+[Read more on how to be a project manager @ Half Helix.]()
