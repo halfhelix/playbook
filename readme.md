@@ -6,8 +6,9 @@ Half Helix is a collaborative digital agency that partners with organizations to
 
 Our business model is very simple:
 
-1) Make Good Work
-2) Wait for Emails
+Step 1) Make Good Work
+
+Step 2) Wait for Emails
 
 ## 💯 Our Ways
 
