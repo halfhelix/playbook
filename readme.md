@@ -12,9 +12,9 @@ Step 2) Wait for Emails
 
 ## 💯 Our Ways
 
-We're a collabrative agency. That means each person working on your project has a share in the company - be it a designer, developer, or specialist. This means our motivations are radically different than traditional agencies and we're able to do things that other cannot.
+We're a collabrative agency. That means each person working on your project has a share in the company - be it a designer, developer, or producer. This means our motivations are radically different than traditional agencies and we're able to do things that other cannot.
 
-Traditional agencies have a lot of overhead and are fundamentally lifestyle businesses. Their business model is to double or triple the costs of their staffs time, then repackage it for sale to prospective clients. In contrast, our cooperative model gives each person on ownership of a projects sucsess and a portion of their composition is a dividend of the projects profit.
+Traditional agencies have a lot of overhead and are fundamentally lifestyle businesses. Their business model is to hire staff, double or triple their salaries, then repackage it for sale to clients. In contrast, our cooperative model gives each member of our team a share in ownership and profits. By flipping the agency paradigm, each one of us is deeply invested of the sucsess of all of our projects. 
 
 ## 🙏 Our Beliefs
 
