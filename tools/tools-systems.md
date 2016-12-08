@@ -27,9 +27,6 @@ We use custom internal tools and publicly available software to optimize the han
 *InVision*
 InVision is a design prototyping platform we use to host the design files / assets (PSD, AI, Etc) and create prototypes. It also is a platforms to provide collaborate on prototype feedback, allowing us to comment, draw, and discuss the prototype directly in the screen.
 
-*Zeplin*
-Zeplin is the tool we use to hand off design specs from designer to developer. Zeplin outlines designs by generating dimensions, colors, fonts, and other details from design files to make development easier.
-
 ## Design
 These help us build mockups and prototypes to share ideas with clients and inform development.
 
@@ -45,36 +42,40 @@ We use Adobe Photoshop CC primarily for making photorealistic mockups. For examp
 ## Development Tools
 Here are the tools for building the web front- and back-end of our projects.
 
-*BitBucket*
-BitBucket stores all our version of a project code. Aside from acting as the central hub for our code, it also acts as a backup incase anything were to happen to a project server or developers computer. All public repositories should have an up-to-date README.md file.
+*GitLab*
+Coming Soon
 
 *GitHub*
+Coming Soon
+
+*DeployBot*
+Coming Soon
 
 ## Hosting
 
 *Heroku*
+Coming Soon
 
 *Netify*
+Coming Soon
 
 *Flywheel*
+Coming Soon
 
 
 ## Social Networks
 Our company has a few channels to share our work publicly.
 
-*Dribbble*
-Our public face in the design world. We’re not yet on Dribbble.
-
 *GitHub*
-Our public face in the dev world. We’re no2-co on GitHub.
+Our public face in the dev world. We’re @halfhelix on GitHub.
 
 *Twitter*
-We don’t tweet much, but we should! We’re @no2_co twitter.
+We don’t tweet much, but we should! We’re @halfhelix twitter.
 We Use Buffer to schedule our posts.
 
 *Instagram*
-We post instagram images of projects and ongoing work. We’re @no2.co on Instagram.
+We post instagram images of projects and ongoing work. We’re @halfhelix on Instagram.
 We use Grum to schedule our posts.
 
 *Website*
-We have a teaser page up now at no2.co, but will be releasing our full portfolio in soon. This will help us display our work and generate new leads.
+We have a teaser page up now at halfhelix.com, but will be releasing our full portfolio in soon. This will help us display our work and generate new leads.

@@ -11,15 +11,6 @@
 
 ### Scoping
 
-### Project Estimation
-
-10% - Director
-20% - Design
-25% - Development
-15% - Project Management
-5% - Sales Commision
-25% - Agency (Office, Admin, )
-
 ### Proposals
 
 ### Feature Tracking

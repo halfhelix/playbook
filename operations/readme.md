@@ -1,5 +1,7 @@
 # Operations
 
+### Coming Soon
+
 ## Invoicing & Payments
 ## Contracts
 ## Meetings

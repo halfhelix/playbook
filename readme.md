@@ -98,7 +98,7 @@ read more on tools [here]()
 
 - [Designers](team-guides/designers.md)
 - [Developers](team-guides/developers.md)
-- [Producers](team-guides/producers.md)
+- [Project Managers](team-guides/project-managers.md)
 
 ## 📰 Our Client Guides
 
@@ -108,4 +108,4 @@ read more on tools [here]()
 - [The difference between design, frontend, backend](client-guides/difference_design_frontend_backend.md)
 - [The differences between web apps, nobile apps, and hybrid apps](client-guides/difference_between_web_mobile_hybrid.md)
 
-### 🙌 Thanks for reading!
+## 🙌 Thanks for reading!
