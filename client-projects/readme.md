@@ -19,7 +19,7 @@ Early in a project, we have to decide which platforms and frameworks we'll use. 
 Our standard o ce hours are Monday - Friday, 10am - 7pm (GMT-4).
 We send our clients regular email updates throughout a project, usually a couple times per week. In addition to regular emails, we like to schedule periodic phone calls, video calls, or in-person meetings to get a clients feedback and ensure we have all the information we need to do our jobs successfully.
 
-# Desgin
+# Design
 
 The design stage of the project involves considering considering how a user will interact with the website or app and creating interfaces that are usable, intuitive, and intelligent.
 
