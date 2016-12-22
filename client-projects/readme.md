@@ -13,10 +13,10 @@ Questions we ask at the start of each project:
 
 ### Choose A Platform
 We live in a magical modern era where many problems have already been solved for us. By utilizing existing platforms and frameworks, we can jumpstart our projects with common functionality, while allowing us to focus on the core features unique to the project.
-Early in a project, we have to decide which platforms and frameworks we'll use. Which we use depends on the project and what problems we’re trying to solve. We consider what's best for users, what’s best for the clients, and what tools let us work quickly and e ciently.
+Early in a project, we have to decide which platforms and frameworks we'll use. Which we use depends on the project and what problems we’re trying to solve. We consider what's best for users, what’s best for the clients, and what tools let us work quickly and effeciently.
 
 ### Communication
-Our standard o ce hours are Monday - Friday, 10am - 7pm (GMT-4).
+Our standard office hours are Monday - Friday, 10am - 7pm (GMT-4).
 We send our clients regular email updates throughout a project, usually a couple times per week. In addition to regular emails, we like to schedule periodic phone calls, video calls, or in-person meetings to get a clients feedback and ensure we have all the information we need to do our jobs successfully.
 
 # Design
@@ -24,13 +24,13 @@ We send our clients regular email updates throughout a project, usually a couple
 The design stage of the project involves considering considering how a user will interact with the website or app and creating interfaces that are usable, intuitive, and intelligent.
 
 ### Wireframes
-Wireframes are essentially sketches. They act as the blueprints of what we’re building. We sketch many designs before implementing a just a few. Everyone on the team, including designers, developers, and clients are encouraged to sketch.
+Wireframes are essentially sketches. They act as the blueprints for what we’re building. We sketch many designs before implementing a just a few. Everyone on the team, including designers, developers, and clients are encouraged to sketch.
 
 ### User Interface Design
 In the context of our projects, the user interface is the individual screens that a user interacts with. It's not enough to be only functional or beautiful, users must know which capabilities exist and be able to anticipate how the website or app is going to react to their actions.
 
 ### Interaction Design
-Interaction gives users the ability to change or directly manipulate the canvas. Designing those interactions is what makes our projects come to life. Interactions should provide affordance — animation, for examples, can be used as a powerful metaphor for helping a user understand an interface. Interactions help guide a user from the beginning of a task through it's completion.
+Interaction gives users the ability to change or directly manipulate the canvas. Designing those interactions is what makes our projects come to life. Interactions should provide affordance — animation, for examples, can be used as a powerful metaphor for helping a user understand an interface. Interactions help guide a user from the beginning of a task through its completion.
 
 # Develop
 
@@ -40,26 +40,26 @@ The development stage of a project is when we get our hands dirty and start writ
 Frontend development (sometimes referred to as markup) refers to developing the part of the project you see and interact with. The frontend is comprised entirely in HTML, CSS, and Javascript. When you boil it down, frontend development is the process of turning a project’s designs into interactive code that can be viewed in the browser.
 
 ### Backend Development:
-Backend development refers to the process of making the frontend work. Backend developers write the code that makes the app "smart." The backend (usually consisting of a sever, application, and database) is responsible for storing information, processing user actions, and so on.
+Backend development refers to the process of making the frontend work. Backend developers write the code that makes the app "smart." The backend (usually consisting of a server, application, and database) is responsible for storing information, processing user actions, and so on.
 
 # Test
 
-Bugs inevitably happen. Despite the tireless efforts to make sure code is perfect, there are a number of ways a bugs could slip into a project. Through our comprehensive processes and set of best practices, we do everything we can to maximise efficiency and minimise bugs.
+Bugs inevitably happen. Despite the tireless efforts to make sure code is perfect, there are a number of ways bugs could slip into a project. Through our comprehensive processes and set of best practices, we do everything we can to maximize efficiency and minimize bugs.
 
 ### Code Reviews:
 Code reviews ensure our code is up to our standards. Before code goes live, a team member, other than the author, will review the code. If there are issues, they’ll ask the author to fix them.
 
 ### Automated Testing:
-Automated tests are the process of writing code to test code. These tests mimics a users actions with the website or app and tests against expected results. This allows developers to test frequently, without the tedious and often inaccurate manual alternative.
+Automated tests are the process of writing code to test code. These tests mimic a user's actions with the website or app and tests against expected results. This allows developers to test frequently, without the tedious and often inaccurate manual alternative.
 
 ### Cross-Browser Testing:
 Each browser has individual nuances. These differences can commonly lead to bugs. To ensure our code has support across browsers, we test our work in latest versions of Chrome, Safari, Firefox, and Internet Explorer 10+.
 
 ### Cross-Device Testing:
-Ensuring a site works seamlessly across desktops, laptops, tablets, and mobile devices is essential to a project’s success. To ensure our code works on all devices, we test our work on iOS and Android.
+Ensuring a site works seamlessly across desktops, laptops, tablets, and mobile devices are essential to a project’s success. To ensure our code works on all devices, we test our work on iOS and Android.
 
 # Deploy
-Deployment means making site site or app available to users - with minimum technical overhead.
+Deployment means making a site or app available to users - with minimum technical overhead.
 
 ### Domains
 Domains are the addresses a user types into the browser to access your website. We prefer to use Domainr to see what's available and NameCheap to buy domain names.
