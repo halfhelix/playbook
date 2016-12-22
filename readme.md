@@ -2,6 +2,8 @@
 
 Half Helix is a collaborative digital agency that partners with organizations to create modern digital experiences for culture and commerce. Together, we transform ideas into connected products and platforms for mobile and the web.
 
+This is a living document which details how we run client projects and daily operations.
+
 ## ♻️ Our Model
 
 Our business model is very simple:
