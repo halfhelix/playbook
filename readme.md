@@ -62,7 +62,7 @@ read more on tools [here]()
 - [Git](/code-guides/git/readme.md)
 - [Jekyll](/code-guides/jekyll/readme.md)
 - [Shopify](/code-guides/shopify/readme.md)
-- [Rails](/code-guides/rails/readme.md)
+<!-- - [Rails](/code-guides/rails/readme.md) -->
 
 ## 📦 Our Starterkits
 
@@ -72,40 +72,42 @@ read more on tools [here]()
 
 ## 💵 Our Sales Process
 
-- [Inquiries](new-projects/readme.md)
-- [Initial Meeting](new-projects/readme.md)
-- [Contract](new-projects/readme.md)
-- [Scheduling](new-projects/readme.md)
+- [Inquiries](new-projects/readme.md#inquiries)
+- [Initial Meeting](new-projects/readme.md#initial-meeting)
+- [Budgets](new-projects/readme.md#budgets)
+- [Rates](new-projects/readme.md#contract#rates)
+- [Contract](new-projects/readme.md#contract)
+- [Scheduling](new-projects/readme.md#scheduling)
 
 ## 📝 Our Project Process
 
-- [Planning](client-projects/readme.md)
-- [Design](client-projects/readme.md)
-- [Development](client-projects/readme.md)
-- [QA](client-projects/readme.md)
-- [Maintience](client-projects/readme.md)
+- [Planning](client-projects/readme.md#planning)
+- [Design](client-projects/readme.md#design)
+- [Development](client-projects/readme.md#development)
+- [QA](client-projects/readme.md#test)
+- [Maintience](client-projects/readme.md#deploy)
 
-## 💁 Our Operating Process
+<!-- ## 💁 Our Operating Process
 
 - [Communication](operations/readme.md)
 - [Invoicing & Payments](operations/readme.md)
 - [Meetings](operations/readme.md)
 - [Project Management](operations/readme.md)
 - [Maintenance Agreements](operations/readme.md)
-- [Remote Work](operations/readme.md)
+- [Remote Work](operations/readme.md) -->
 
-## 👨‍👩‍👦‍👦 Our Team Guides
+## 👨‍👩‍👦‍👦 Our Team Guides (WIP!)
 
 - [Designers](team-guides/designers.md)
 - [Developers](team-guides/developers.md)
 - [Project Managers](team-guides/project-managers.md)
 
-## 📰 Our Client Guides
+<!-- ## 📰 Our Client Guides
 
 - [What does it cost](client-guides/what_does_it_cost.md)
 - [How to delivery assets](client-guides/asset_delivery.md)
 - [How to give feedback](client-guides/how_to_give_feedback.md)
 - [The difference between design, frontend, backend](client-guides/difference_design_frontend_backend.md)
-- [The differences between web apps, nobile apps, and hybrid apps](client-guides/difference_between_web_mobile_hybrid.md)
+- [The differences between web apps, nobile apps, and hybrid apps](client-guides/difference_between_web_mobile_hybrid.md) -->
 
 ## 🙌 Thanks for reading!
