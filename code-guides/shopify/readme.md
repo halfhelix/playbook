@@ -98,17 +98,17 @@ Shopify does not have a local server or git deployment strategy. This means it's
     * Use NPM for any 3rd party packages or libraries. 
     * Prefer to write JS in reusable modules, using [ES6 import / export](http://javascript.tutorialhorizon.com/2015/06/23/es6-modules-examples/). 
 * Responsive Images / Image Filters
-    * Alway use [Shoify Image filters]() for downsize image assets to an approraiet size for their context. 
+    * Alway use [Shoify Image filters](https://www.shopify.com/partners/blog/the-img_url-filter-just-got-10x-better) for downsize image assets to an approraiet size for their context. 
     * Prefer to use responsive images to load smaller images into mobile devices and larger images into retina devices.
 * Background Images
     * Use explicate alternative image on all background images set to `background-size: cover`. This will allows admins to maintain explicate control of the image composition on smaller screens that would overwise have lot of cropping. 
 * Sliders
-    * Always use [Slick.js]() as a slider library.
+    * Always use [Slick.js](http://kenwheeler.github.io/slick/) as a slider library.
     * Always have explicate mobile images for hero sliders that are full width using background images. 
 * HTML5 Videos w/ Fallbacks
     * Use jpg/gif fallbacks for all HTML video on touch devices. 
 * Ajax Cart
-    * Use [Cart.js]() for Ajax cart JS templating.
+    * Use [Cart.js](https://cartjs.org/) for Ajax cart JS templating.
 * Ignoring Settings & Locals
     * Always ignore `config/settings_data.json` from git and from the build/watch commands. 
 * Documentation 
